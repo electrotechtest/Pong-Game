@@ -12,5 +12,6 @@ By default, it isn't had music(but it has sound effect).but if you should play w
 For this you rename and convert your music file "music.wav" and you drop your file in asset.
 It's simillar for other asset
 
+![alt text](https://github.com/electrotechtest/transphere/blob/main/main.PNG?raw=true)
 ![alt text](https://github.com/electrotechtest/transphere/blob/main/game.PNG?raw=true)
 
