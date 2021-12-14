@@ -1,6 +1,6 @@
 # Pong-Game
 It's a little game of pong,We can play in solo,local multiplayer or LAN multiplayer.
-!.[alt text].(https://github.com/electrotechtest/transphere/blob/main/main.PNG?raw=true)
+![alt text](https://github.com/electrotechtest/transphere/blob/main/main.PNG?raw=true)
 
 # play on LAN
 to play with your friend in LAN.
