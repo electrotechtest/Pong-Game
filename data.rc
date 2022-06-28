@@ -1,0 +1,24 @@
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "080904E4"
+    BEGIN
+      VALUE "CompanyName", "Electro_Tech_Test"
+      VALUE "FileDescription", "it's a little pong game"
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "pong"
+      VALUE "LegalCopyright", "Electro_Tech_Test"
+      VALUE "OriginalFilename", "pong.exe"
+      VALUE "ProductName", "Pong"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x809, 1252
+  END
+END
+2 ICON "C:/Users/essaie/Documents/test prog/c c++/pong/bin/Debug/asset/ico.ico"
